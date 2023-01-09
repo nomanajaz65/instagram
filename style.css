@@ -1,0 +1,50 @@
+.pic{
+    position: absolute;
+    right: 70%;
+
+}
+
+.box{
+    border: 1px solid black;
+    width: 350px;
+    margin-top: 60px;
+    padding: 10px;
+}
+
+.abc{
+    border: 1px solid black;
+    width: 350px;
+    padding: 15px ;
+}
+.space{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-size-adjust: 50px ;
+}
+.button{
+    height: 30px;
+}
+.two{
+    height: 30px;
+}
+
+
+.color{
+    background-color: lightblue;
+    color: white;
+    width: 300px;
+    height: 30px;
+}
+
+.black{
+    background-color: black;
+    color: white;
+    height: 35px;
+    width: 110px;
+}
+.blacktwo{
+    background-color: black;
+    color: white;
+    
+    height: 35px;
+    width: 110px;
+}
